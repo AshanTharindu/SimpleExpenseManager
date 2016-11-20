@@ -4,10 +4,17 @@ import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
+/**
+ * Created by Ashan on 11/20/2016.
+ */
+import android.content.Context;
+import android.database.sqlite.SQLiteDatabase;
+import android.database.sqlite.SQLiteOpenHelper;
+
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.database.ExpenseManagerDBContract.AccountTable;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.database.ExpenseManagerDBContract.TransactionTable;
 
-public class ExpenseManagerDBHelper extends SQLiteOpenHelper {
+public class ExpenseManagerDBHelper  extends SQLiteOpenHelper {
 
     private static final String TEXT_TYPE = " TEXT";
     private static final String DOUBLE_TYPE = " REAL";

@@ -31,7 +31,6 @@ import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.ExpenseType;
  * used to store the account details temporarily in the memory.
  */
 public class InMemoryAccountDAO implements AccountDAO {
-
     private final Map<String, Account> accounts;
 
     public InMemoryAccountDAO() {

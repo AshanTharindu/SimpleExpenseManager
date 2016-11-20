@@ -5,8 +5,9 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
 
-
-
+/**
+ * Created by Ashan on 11/20/2016.
+ */
 public class Database {
     ExpenseManagerDBHelper expenseManagerDBHelper;
     SQLiteDatabase sqLiteDatabase;
