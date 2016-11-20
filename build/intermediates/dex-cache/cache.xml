@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_f0b8ad63d740d45e88ae4264f486a8640cd821c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chamath Abeysinghe\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_29d3c352d698598b0165697e385478d5e9bdf686\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="884b166052b739612d16bf56ac170acf7081faed">
+        <dex dex="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5f5237c273d065d296cf8c5aa68a74fe7954adc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_b7dce6b563df0c8076b0cda834428daad8f084f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_2af3525ea99b84c2bdab864c8beacaeae16c8c58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_81f71b6e14af2d984620559c77f29ffb32f7da37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_d46623cc72f3394a055071a691c1d13e65329316\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673b8848270a83aefeedcbce70a6fe45ddbe621e">
+        <dex dex="C:\Semester 4\Database systems\MiniProject\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d77a83e3736612706847e8ecc989baf8f7509c68\classes.dex" />
+    </item>
+
+</items>

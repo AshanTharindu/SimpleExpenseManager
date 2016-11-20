@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Projects\\SimpleExpenseManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Projects\\SimpleExpenseManager\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CSE\\semester 4\\database\\chamathminiproject\\SimpleExpenseManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\CSE\\semester 4\\database\\chamathminiproject\\SimpleExpenseManager\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Semester 4\\Database systems\\MiniProject\\SimpleExpenseManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Semester 4\\Database systems\\MiniProject\\SimpleExpenseManager\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
